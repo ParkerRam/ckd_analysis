@@ -3,6 +3,6 @@ Term project for DSCI 100 at UBC. Data wrangling, EDA and classification exercis
 
 # What I learned
 * Basics of tidyverse and caret
-* Proper EDA and model fitting work flow
+* Proper EDA and model fitting work flow in R
 * Utilising cross-validation while fitting models
 
